@@ -1,0 +1,12 @@
+.idea/
+venv/
+.venv/
+__pycache__/
+*.egg-info/
+build/
+dist/
+.ruff_cache/
+
+# Local developer tools and private runners
+local/
+scripts/local/
